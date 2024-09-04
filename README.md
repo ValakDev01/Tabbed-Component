@@ -1,4 +1,4 @@
-# Drag & Drop Project 💥
+# Tabbed Component Project 💥
 
 <br />
 
